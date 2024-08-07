@@ -9,7 +9,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "jaswant06",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
